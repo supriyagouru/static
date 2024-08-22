@@ -1,0 +1,34 @@
+.orange {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/orange-color-bg.png");
+    height:100vh;
+    background-size:cover;
+}
+
+
+.pad {
+    padding: 15px;
+}
+
+.nemo {
+    color: white;
+    padding: 10px;
+    margin:30px;
+}
+
+.white {
+    background-color: white;
+    color: #ff8348;
+    border-radius: 6px;
+    margin: 12px;
+}
+
+.para {
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
+
+.mar {
+    margin: 30px;
+}
+

@@ -1,0 +1,57 @@
+.white {
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+.all {
+    color: #323f4b;
+    font-size: 15px;
+    font-family: "Roboto";
+    font-weight: 500px;
+}
+
+.blue {
+    background-color: #a368fc;
+    margin: 15px;
+    padding: 10px;
+    border-radius: 6px;
+    text-align:start;
+}
+
+.pad {
+    padding: 10px;
+    
+}
+
+.same {
+    margin: 20px;
+    border-radius: 8px;
+    padding: 8px;
+}
+
+.green {
+    background-color: #3ebd93;
+}
+
+.pink {
+    background-color: #e668a7;
+}
+
+.voliet {
+    background-color: #a368fc;
+}
+
+.textwhite {
+    color: white;
+}
+
+.lightpink {
+    background-color: #e12d3919;
+    border-radius: 8px;
+    margin: 10px;
+}
+.padding{
+    padding:10px;
+    margin:20px;
+}

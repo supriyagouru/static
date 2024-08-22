@@ -1,0 +1,34 @@
+.mobile-image {
+    height: 50vh;
+    padding: 20px;
+}
+
+.specification {
+    font-weight: bold;
+    padding: 10px;
+    margin: 20px;
+    font-size: 30px;
+    color: #0a1f44;
+}
+
+.ram {
+    font-size: 15px;
+    font-family: "Roboto";
+
+}
+
+.pad {
+    padding: 10px;
+}
+
+.border {
+    border-width: 10px;
+    border-color: #707070;
+}
+.margin{
+    margin:10px;
+    padding:5px;
+}
+.padding{
+    margin:15px;
+}

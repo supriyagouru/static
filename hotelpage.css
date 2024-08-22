@@ -1,0 +1,49 @@
+.house {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 100vh;
+    background-size: cover;
+    padding: 10px;
+}
+
+.black {
+    background-color:blue;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 20px;
+    text-align:center;
+
+}
+
+.royal {
+    color: white;
+    font-size: 20px;
+    font-family: "Bree Serif";
+}
+
+.beach {
+    color: white;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: normal;
+}
+
+.amount {
+    color: white;
+    font-size: 25px;
+}
+
+.book {
+    color: #000000e6;
+    font-weight: normal;
+    background-color: white;
+    font-size: 25px;
+    border-radius: 6px;
+    padding: 5px;
+    margin: 15px;
+
+
+}
+
+.cen {
+    text-align: center;
+}

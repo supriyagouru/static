@@ -1,0 +1,39 @@
+.pap {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.news {
+    font-size: 40px;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.backwhite {
+    background-color: white;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.cricket {
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #7b8794;
+    font-weight: bold;
+}
+
+.ibpara {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #7b8794;
+}
+
+.read {
+    color: white;
+    background-color: #323f4b;
+    padding: 5px;
+    font-size: 15px;
+    border-radius: 5px;
+}

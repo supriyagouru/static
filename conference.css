@@ -1,0 +1,39 @@
+.height {
+    height: 50vh;
+    width: 50vw;
+    padding: 20px;
+}
+
+.things {
+    padding: 10px;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.center {
+    text-align: center;
+}
+
+
+.future {
+
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.con {
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.four {
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.attendees {
+    padding: 3px;
+    font-size: 9px;
+}

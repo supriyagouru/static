@@ -1,0 +1,49 @@
+.rahu {
+    background-color: #fb4e71;
+    padding: 30px;
+}
+
+.rahul {
+    font-family: "Roboto";
+    font-size: 35px;
+    color: white;
+}
+
+.kannur {
+    font-size: 25px;
+    color: white;
+}
+
+.ipl {
+    color: #323f4b;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.white {
+    background-color: white;
+    border-radius: 10px;
+    margin: 15px;
+    
+}
+
+.rcb {
+    font-size: 25px;
+    color: #323f4b;
+}
+
+.hescore {
+    font-size: 22px;
+    color: #888888;
+}
+
+.karnataka {
+    color: #323f4b;
+    font-size: 15px;
+    margin: 8px;
+
+
+}
+.padding{
+    margin:20px;
+}
